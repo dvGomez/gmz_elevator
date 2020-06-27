@@ -36,3 +36,5 @@ Follow the instructions below to add a new floor:
 |z|`relative coordination Z`            |double            |
 
 > **Note:** the coordinates refers for each floor
+
+> **Note2:** vRP native menu interface is used to display options in cellphone
