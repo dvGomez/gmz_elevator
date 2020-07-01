@@ -2,6 +2,8 @@
 It is a simple script developed to FiveM that allow you to create elevators around the map.
 
 
+Join in GMZ Community: https://discord.gg/J2MVhGJ
+
 Example video: https://youtu.be/cybLV1p01Yg
 
 
